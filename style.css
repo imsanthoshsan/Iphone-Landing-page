@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: black;
+  color: gray;
+}
+.section_one_main_container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.section_one_container {
+  display: flex;
+  padding: 0 5%;
+}
+.section_one_left_container {
+  display: flex;
+  margin-left: -40px;
+}
+
+.section_three_container {
+  padding: 0 5%;
+}
+.section_three_details_title {
+  font-size: 35px;
+}
